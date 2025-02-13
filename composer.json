@@ -28,7 +28,7 @@
     "require": {
         "php": "^8.2",
         "illuminate/console": "^11",
-        "illuminate/support": "^11",
+        "illuminate/support": "^10.0|^11.0",
         "illuminate/cache": "^11",
         "illuminate/database": "^11"
     },
